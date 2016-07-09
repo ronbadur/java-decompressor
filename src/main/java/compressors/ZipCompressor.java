@@ -5,9 +5,6 @@ import net.lingala.zip4j.exception.ZipException;
 
 import java.nio.file.Path;
 
-/**
- * Created by RON on 24/04/2016.
- */
 public class ZipCompressor implements Compressor {
 
     @Override
